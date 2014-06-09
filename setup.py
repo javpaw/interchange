@@ -11,6 +11,7 @@ setup(
     description='Strategy pattern implementation',
     author='Javier',
     author_email='yourname@example.com',
+    packages:['interchange']
     classifiers=[
         'Intended Audience :: Developers',
         'Operating System :: OS Independent',
